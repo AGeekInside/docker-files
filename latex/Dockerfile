@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Marc Brooks <marcwbrooks@gmail.com>
+MAINTAINER Marc Brooks <acomfygeek@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
